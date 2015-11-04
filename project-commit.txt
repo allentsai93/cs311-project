@@ -1,16 +1,16 @@
 Team Member Names:
 Norman Sue
-TODO
+Allen Tsai
 TODO
 
 Team Member Student IDs:
 20396131
-TODO
+34437111
 TODO
 
 Team Member ugrad.cs.ubc.ca Logins:
 h0e9
-TODO
+k7s8
 TODO
 
 Initial level commitment (80%, 90%, or 100%):
