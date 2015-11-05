@@ -1,15 +1,12 @@
 Team Member Names:
-Norman Sue
 Allen Tsai
 TODO
 
 Team Member Student IDs:
-20396131
 34437111
 TODO
 
 Team Member ugrad.cs.ubc.ca Logins:
-h0e9
 k7s8
 TODO
 
